@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\downloads\crappy esp++++_mpgh.net (1)\binary\vermz\stdzhfx\setup.hpp(168): warning C4244: аргумент: преобразование "SIZE_T" в "DWORD", возможна потеря данных
+d:\downloads\crappy esp++++_mpgh.net (1)\binary\vermz\stdzhfx\setup.hpp(533): warning C4018: <: несоответствие типов со знаком и без знака
+d:\downloads\crappy esp++++_mpgh.net (1)\binary\vermz\stdzhfx\setup.hpp(679): error C2440: приведение типов: невозможно преобразовать "TCHAR [260]" в "std::wstring"
+  d:\downloads\crappy esp++++_mpgh.net (1)\binary\vermz\stdzhfx\setup.hpp(679): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+d:\downloads\crappy esp++++_mpgh.net (1)\binary\vermz\stdzhfx\setup.hpp(680): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных

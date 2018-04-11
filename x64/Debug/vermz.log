@@ -1,0 +1,6 @@
+﻿  crappy.cpp
+d:\downloads\crappy esp++++_mpgh.net (1)\binary\vermz\crappy.h(68): warning C4311: приведение типов: усечение указателя из "HMODULE" в "DWORD"
+d:\downloads\crappy esp++++_mpgh.net (1)\binary\vermz\crappy.h(68): warning C4302: приведение типов: усечение из "HMODULE" к "DWORD"
+d:\downloads\crappy esp++++_mpgh.net (1)\binary\vermz\sdk\pubg_basic.hpp(285): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+d:\downloads\crappy esp++++_mpgh.net (1)\binary\vermz\crappy.cpp(470): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  vermz.vcxproj -> D:\Downloads\Crappy ESP++++_mpgh.net (1)\binary\vermz\x64\Debug\crappy.exe
